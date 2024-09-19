@@ -1,8 +1,8 @@
 terraform {
   required_providers {
-    gitlab = {
-      source  = "integrations/github"
-      vversion = "~> 6.0"
+    github = {
+      source = "integrations/github"
+      version = "~> 6.0"
     }
   }
 }
