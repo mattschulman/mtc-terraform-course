@@ -1,2 +1,2 @@
 # mtc-terraform-course
-Code from More Then Certified - Terraform Course
+Code from More Than Certified - Terraform Course
