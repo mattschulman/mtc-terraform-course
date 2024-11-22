@@ -1,0 +1,5 @@
+access_ip  = "0.0.0.0/0"
+dbname     = "rancher"
+dbuser     = "bobby"
+dbpassword = "t4b!3s2024"
+aws_region = "eu-north-1"
